@@ -893,11 +893,11 @@ header .container nav i.fa-bars {
   transform: translateX(-50%);
 }
 
-.pricing .plans .plan>.footer {
+.pricing .plans .plan>.foot {
   padding: 30px 0;
 }
 
-.pricing .plans .plan .footer a {
+.pricing .plans .plan .foot a {
   display: block;
   border: 1px solid var(--main-color);
   padding: 20px;
